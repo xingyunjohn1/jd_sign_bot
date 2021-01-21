@@ -18,5 +18,10 @@
 详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
 
 20210121 23:43 hello world!
+
 *the last try was failed, retry!*
 20210121 23:45 hello world!
+
+*the last try was failed, retry!*
+update JD_COOKIE
+20210121 23:53 hello world!
