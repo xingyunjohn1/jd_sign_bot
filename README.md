@@ -17,15 +17,7 @@
 
 详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
 
-20210121 23:43 hello world!
+**Thanks @ruicky.** This is a fork from [his/her repository](https://github.com/ruicky/jd_sign_bot).
 
-*the last try was failed, retry!*
-20210121 23:45 hello world!
-
-*the last try was failed, retry!*
-update JD_COOKIE
-20210121 23:53 hello world!
-
-*the last try was failed, retry!*
-update JD_COOKIE
-20210122 00:07 hello world!
+20210122 00:07 hello world!  
+success!
